@@ -1,0 +1,23 @@
+.home-page-filter- {
+  padding: 5px;
+  border-radius: px;
+}
+.filter-heading {
+  text-align: center;
+}
+.filter-option {
+  margin-left: 10px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-weight: 600;
+  label {
+    margin-left: 10px;
+  }
+}
+.clear-btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}

@@ -1,0 +1,21 @@
+.nav-section {
+  padding-left: 10px;
+  padding-right: 4rem;
+}
+.drop-img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 3px;
+}
+.card-style {
+  border: 1px solid grey;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 10px;
+}
+.drop-items {
+  margin-top: 2px;
+}
